@@ -1,0 +1,1 @@
+This is a basic Sinatra app using embedded ruby where a user can sign in and sign out.
